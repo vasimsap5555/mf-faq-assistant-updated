@@ -1,5 +1,7 @@
 # HDFC Mutual Fund Facts Desk
 
+ **Live demo:** https://mf-faq-assistant-updated-j4hvywtrboetubmdm5cmhl.streamlit.app/
+
 A facts-only FAQ assistant for four HDFC Mutual Fund schemes, built for the "Mutual Fund FAQs (Facts-Only Q&A)" milestone. Product context: **Groww**. Every answer is at most 3 sentences, cites exactly one official source, and shows "Last updated from sources". Opinion, portfolio and performance questions are politely refused with an educational link. Messages containing personal details are blocked before any processing.
 
 ## Scope
