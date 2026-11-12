@@ -1,0 +1,445 @@
+{
+ "_note": "Each value was checked by hand against the cited document. Re-verify after every monthly refresh (see README > Refreshing data).",
+ "facts": [
+  {
+   "scheme": "flexi",
+   "attribute": "expense_ratio",
+   "source_id": "S13",
+   "as_on": "2026-09-30",
+   "answer": "As of 30 Sep 2026, HDFC Flexi Cap Fund's expense ratio is 1.27% for the Regular Plan and 0.67% for the Direct Plan. This is the base expense ratio reported in the monthly factsheet, excluding brokerage and transaction costs.",
+   "evidence": "Regular: 1.27% Direct: 0.67%"
+  },
+  {
+   "scheme": "large",
+   "attribute": "expense_ratio",
+   "source_id": "S13",
+   "as_on": "2026-09-30",
+   "answer": "As of 30 Sep 2026, HDFC Large Cap Fund's expense ratio is 1.55% for the Regular Plan and 1.00% for the Direct Plan. This is the base expense ratio reported in the monthly factsheet, excluding brokerage and transaction costs.",
+   "evidence": "Regular: 1.55% Direct: 1.00%"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "expense_ratio",
+   "source_id": "S13",
+   "as_on": "2026-09-30",
+   "answer": "As of 30 Sep 2026, HDFC Mid Cap Fund's expense ratio is 1.26% for the Regular Plan and 0.71% for the Direct Plan. This is the base expense ratio reported in the monthly factsheet, excluding brokerage and transaction costs.",
+   "evidence": "Regular: 1.26% Direct: 0.71%"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "expense_ratio",
+   "source_id": "S13",
+   "as_on": "2026-09-30",
+   "answer": "As of 30 Sep 2026, HDFC ELSS Tax Saver's expense ratio is 1.70% for the Regular Plan and 1.13% for the Direct Plan. This is the base expense ratio reported in the monthly factsheet, excluding brokerage and transaction costs.",
+   "evidence": "Regular: 1.70% Direct: 1.13%"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "exit_load",
+   "source_id": "S01",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Flexi Cap Fund charges an exit load of 1.00% if units are redeemed or switched out within 1 year of allotment. There is no exit load after 1 year.",
+   "evidence": "Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 1 year"
+  },
+  {
+   "scheme": "large",
+   "attribute": "exit_load",
+   "source_id": "S02",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Large Cap Fund charges an exit load of 1.00% if units are redeemed or switched out within 1 year of allotment. There is no exit load after 1 year.",
+   "evidence": "Exit Load of 1.00% is payable"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "exit_load",
+   "source_id": "S03",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Mid Cap Fund charges an exit load of 1.00% if units are redeemed or switched out within 1 year of allotment. There is no exit load after 1 year.",
+   "evidence": "Exit Load of 1.00% is payable if Units are"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "exit_load",
+   "source_id": "S04",
+   "as_on": "2025-11-21",
+   "answer": "HDFC ELSS Tax Saver has no exit load (Nil). The scheme has a statutory lock-in of 3 years instead.",
+   "evidence": "Exit Load: Nil"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "min_sip",
+   "source_id": "S14",
+   "as_on": "2026-08-14",
+   "answer": "The minimum SIP instalment for HDFC Flexi Cap Fund is Rs. 100 for daily, weekly and monthly SIPs, Rs. 1,500 for quarterly, Rs. 2,500 for half-yearly and Rs. 5,000 for yearly SIPs. The minimum lumpsum application is also Rs. 100.",
+   "evidence": "For SIP DSIP, WSIP, MSIP - Rs. 100; QSIP - Rs. 1500; HSIP - Rs. 2500; YSIP - Rs. 5000"
+  },
+  {
+   "scheme": "large",
+   "attribute": "min_sip",
+   "source_id": "S02",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC Large Cap Fund sets the minimum purchase and additional purchase at Rs. 100 and any amount thereafter. SIP-frequency minimums are listed in the scheme's Scheme Summary Document on the HDFC MF website.",
+   "evidence": "Rs.100/- and any amount"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "min_sip",
+   "source_id": "S03",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC Mid Cap Fund sets the minimum purchase and additional purchase at Rs. 100 and any amount thereafter. SIP-frequency minimums are listed in the scheme's Scheme Summary Document on the HDFC MF website.",
+   "evidence": "Rs.100/- and any amount"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "min_sip",
+   "source_id": "S04",
+   "as_on": "2025-11-21",
+   "answer": "For HDFC ELSS Tax Saver, the KIM sets the minimum purchase and additional purchase at Rs. 500 and in multiples of Rs. 500 thereafter.",
+   "evidence": "Rs. 500/- and in multiples of"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "lock_in",
+   "source_id": "S08",
+   "as_on": "2025-11-21",
+   "answer": "HDFC ELSS Tax Saver has a statutory lock-in of 3 years from the date of allotment of each unit, including units allotted through SIP or IDCW reinvestment. Units cannot be redeemed, switched, transferred or pledged until the lock-in ends.",
+   "evidence": "until completion of three years from the date of"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "lock_in",
+   "source_id": "S01",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Flexi Cap Fund is an open-ended scheme and its KIM does not specify a lock-in period. An exit load of 1.00% applies if units are redeemed within 1 year of allotment.",
+   "evidence": "within 1 year from the date of allotment"
+  },
+  {
+   "scheme": "large",
+   "attribute": "lock_in",
+   "source_id": "S02",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Large Cap Fund is an open-ended scheme and its KIM does not specify a lock-in period. An exit load of 1.00% applies if units are redeemed within 1 year of allotment.",
+   "evidence": "within 1 year from the date of allotment"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "lock_in",
+   "source_id": "S03",
+   "as_on": "2025-11-21",
+   "answer": "HDFC Mid Cap Fund is an open-ended scheme and its KIM does not specify a lock-in period. An exit load of 1.00% applies if units are redeemed within 1 year of allotment.",
+   "evidence": "within 1 year from the date of allotment"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "riskometer",
+   "source_id": "S14",
+   "as_on": "2026-08-14",
+   "answer": "HDFC Flexi Cap Fund's riskometer level is Very High. The latest riskometer is disclosed monthly with the scheme portfolio on the HDFC MF website.",
+   "evidence": "Very High Risk"
+  },
+  {
+   "scheme": "large",
+   "attribute": "riskometer",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Large Cap Fund's riskometer level is Very High as of 31 Aug 2026. The latest riskometer is disclosed monthly with the scheme portfolio on the HDFC MF website.",
+   "evidence": "Scheme riskometer as of August 31, 2026"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "riskometer",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Mid Cap Fund's riskometer level is Very High as of 31 Aug 2026. The latest riskometer is disclosed monthly with the scheme portfolio on the HDFC MF website.",
+   "evidence": "Scheme riskometer as of August 31, 2026"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "riskometer",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "HDFC ELSS Tax Saver's riskometer level is Very High as of 31 Aug 2026. The latest riskometer is disclosed monthly with the scheme portfolio on the HDFC MF website.",
+   "evidence": "Scheme riskometer as of August 31, 2026"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "benchmark",
+   "source_id": "S09",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Flexi Cap Fund's benchmark is the NIFTY 500 Index (Total Returns Index).",
+   "evidence": "Benchmark NIFTY 500 Index (Total Returns Index)"
+  },
+  {
+   "scheme": "large",
+   "attribute": "benchmark",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Large Cap Fund's benchmark is the NIFTY 100 Total Returns Index (TRI).",
+   "evidence": "Benchmark NIFTY 100 Total Returns Index (TRI)"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "benchmark",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Mid Cap Fund's benchmark is the Nifty Midcap 150 Index (Total Returns Index).",
+   "evidence": "Benchmark Nifty Midcap 150 Index (Total Returns Index)"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "benchmark",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "HDFC ELSS Tax Saver's benchmark is the NIFTY 500 Index (Total Returns Index).",
+   "evidence": "Benchmark NIFTY 500 Index (Total Returns Index)"
+  },
+  {
+   "scheme": "all",
+   "attribute": "capital_gains_statement",
+   "source_id": "S15",
+   "as_on": "2026-11-12",
+   "answer": "HDFC MF's Request Statement page links the Capital Gains Statement to its investor portal (investor-web.hdfcfund.com). A consolidated realised-gains statement across all your funds is available from CAMS online, linked on the same page.",
+   "evidence": "Capital Gains Statement"
+  },
+  {
+   "scheme": "all",
+   "attribute": "account_statement",
+   "source_id": "S16",
+   "as_on": "2026-11-12",
+   "answer": "On HDFC MF's Download Statement page, enter your PAN or folio number, verify with the OTP, choose the period, and the statement is emailed to you. There is no fee, and you can get either a PAN-based or a folio-based statement.",
+   "evidence": "no charge or fee"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "fund_manager",
+   "source_id": "S09",
+   "as_on": "2026-08-31",
+   "answer": "According to the September 2026 Fund Facts, HDFC Flexi Cap Fund is managed by Mr. Amit Ganatra (since February 01, 2026), with Mr. Bhagyesh Kagalkar managing gold/silver instruments since August 26, 2026.",
+   "evidence": "Amit Ganatra (Since February 01, 2026)"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "objective",
+   "source_id": "S09",
+   "as_on": "2026-08-31",
+   "answer": "The investment objective of HDFC Flexi Cap Fund is to generate capital appreciation / income from a portfolio predominantly invested in equity and equity related instruments. The scheme states there is no assurance that this objective will be achieved.",
+   "evidence": "Investment Objective"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "inception_date",
+   "source_id": "S09",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Flexi Cap Fund's inception (allotment) date is January 1, 1995.",
+   "evidence": "Inception Date January 1, 1995"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "plans_options",
+   "source_id": "S09",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Flexi Cap Fund offers a Regular Plan and a Direct Plan. Under each plan it offers a Growth option and an IDCW option, with IDCW Payout and IDCW Reinvestment sub-options.",
+   "evidence": "Regular Plan, Direct Plan. Under Each Plan: Growth & Income Distribution cum Capital Withdrawal (IDCW) Option"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "min_redemption",
+   "source_id": "S01",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC Flexi Cap Fund sets the minimum redemption or switch-out at Rs. 100 and in multiples of Re. 1 thereafter.",
+   "evidence": "Rs. 100 and in multiples of Re. 1/- thereafter"
+  },
+  {
+   "scheme": "large",
+   "attribute": "fund_manager",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "According to the September 2026 Fund Facts, HDFC Large Cap Fund is managed by Mr. Rahul Baijal (since July 29, 2022), with Mr. Bhagyesh Kagalkar managing gold/silver instruments since August 26, 2026.",
+   "evidence": "Rahul Baijal (since July 29, 2022)"
+  },
+  {
+   "scheme": "large",
+   "attribute": "objective",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "The investment objective of HDFC Large Cap Fund is to provide long-term capital appreciation/income by investing predominantly in large-cap companies. The scheme states there is no assurance that this objective will be achieved.",
+   "evidence": "Investment Objective"
+  },
+  {
+   "scheme": "large",
+   "attribute": "inception_date",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Large Cap Fund's inception (allotment) date is October 11, 1996.",
+   "evidence": "Inception Date October 11, 1996"
+  },
+  {
+   "scheme": "large",
+   "attribute": "plans_options",
+   "source_id": "S10",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Large Cap Fund offers a Regular Plan and a Direct Plan. Under each plan it offers a Growth option and an IDCW option, with IDCW Payout and IDCW Reinvestment sub-options.",
+   "evidence": "Regular Plan, Direct Plan. Under Each Plan: Growth & Income Distribution cum Capital Withdrawal (IDCW) Option"
+  },
+  {
+   "scheme": "large",
+   "attribute": "min_redemption",
+   "source_id": "S02",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC Large Cap Fund sets the minimum redemption or switch-out at Rs. 100 and in multiples of Re. 1 thereafter.",
+   "evidence": "Rs. 100 and in multiples of Re. 1/- thereafter"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "fund_manager",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "According to the September 2026 Fund Facts, HDFC Mid Cap Fund is managed by Mr. Chirag Setalvad (since June 25, 2007), with Mr. Bhagyesh Kagalkar managing gold/silver instruments since August 26, 2026.",
+   "evidence": "Chirag Setalvad (since June 25, 2007)"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "objective",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "The investment objective of HDFC Mid Cap Fund is to provide long term capital appreciation/income by investing predominantly in mid-cap companies. The scheme states there is no assurance that this objective will be achieved.",
+   "evidence": "Investment Objective"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "inception_date",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Mid Cap Fund's inception (allotment) date is June 25, 2007.",
+   "evidence": "Inception Date June 25, 2007"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "plans_options",
+   "source_id": "S11",
+   "as_on": "2026-08-31",
+   "answer": "HDFC Mid Cap Fund offers a Regular Plan and a Direct Plan. Under each plan it offers a Growth option and an IDCW option, with IDCW Payout and IDCW Reinvestment sub-options.",
+   "evidence": "Regular Plan, Direct Plan. Under Each Plan: Growth & Income Distribution cum Capital Withdrawal (IDCW) Option"
+  },
+  {
+   "scheme": "mid",
+   "attribute": "min_redemption",
+   "source_id": "S03",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC Mid Cap Fund sets the minimum redemption or switch-out at Rs. 100 and in multiples of Re. 1 thereafter.",
+   "evidence": "Rs. 100 and in multiples of Re. 1/- thereafter"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "fund_manager",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "According to the September 2026 Fund Facts, HDFC ELSS Tax Saver is managed by Mr. Amar Kalkundrikar (with effect from December 08, 2025).",
+   "evidence": "Amar Kalkundrikar, w.e.f. December 08, 2025"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "objective",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "The investment objective of HDFC ELSS Tax Saver is to generate capital appreciation / income from a portfolio comprising predominantly of equity and equity related instruments. The scheme states there is no assurance that this objective will be achieved.",
+   "evidence": "Investment Objective"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "inception_date",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "HDFC ELSS Tax Saver's inception (allotment) date is March 31, 1996.",
+   "evidence": "Inception Date March 31, 1996"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "plans_options",
+   "source_id": "S12",
+   "as_on": "2026-08-31",
+   "answer": "HDFC ELSS Tax Saver offers a Regular Plan and a Direct Plan. Under each plan it offers a Growth option and an IDCW option, with IDCW Payout available.",
+   "evidence": "Regular Plan, Direct Plan. Under Each Plan: Growth & Income Distribution cum Capital Withdrawal (IDCW) Option"
+  },
+  {
+   "scheme": "elss",
+   "attribute": "min_redemption",
+   "source_id": "S04",
+   "as_on": "2025-11-21",
+   "answer": "The KIM for HDFC ELSS Tax Saver sets the minimum redemption or switch-out at Rs. 100 and in multiples of Re. 1 thereafter. Units can be redeemed only after the 3-year lock-in.",
+   "evidence": "Rs. 100 and in multiples of Re. 1/- thereafter"
+  },
+  {
+   "scheme": "all",
+   "attribute": "def_expense_ratio",
+   "source_id": "S22",
+   "as_on": "2026-11-12",
+   "answer": "The Total Expense Ratio (TER) is the complete annual cost of running a mutual fund scheme, charged as a percentage of its assets. AMFI defines it as the Base Expense Ratio plus brokerage, transaction costs and statutory levies such as GST.",
+   "evidence": "AMFI booklet"
+  },
+  {
+   "scheme": "all",
+   "attribute": "def_exit_load",
+   "source_id": "S22",
+   "as_on": "2026-11-12",
+   "answer": "An exit load is a fee charged when you redeem mutual fund units, deducted from the NAV at redemption. For example, with a NAV of Rs. 100 and a 1% exit load, the redemption price would be Rs. 99 per unit.",
+   "evidence": "AMFI booklet"
+  },
+  {
+   "scheme": "all",
+   "attribute": "def_min_sip",
+   "source_id": "S22",
+   "as_on": "2026-11-12",
+   "answer": "A Systematic Investment Plan (SIP) lets you invest a fixed amount in a mutual fund scheme at regular intervals, such as daily, weekly or monthly. The minimum instalment differs by scheme and is stated in each scheme's documents.",
+   "evidence": "AMFI booklet"
+  },
+  {
+   "scheme": "all",
+   "attribute": "def_elss",
+   "source_id": "S22",
+   "as_on": "2026-11-12",
+   "answer": "An Equity Linked Savings Scheme (ELSS) is an equity mutual fund whose investments of up to Rs. 1,50,000 qualify for a tax deduction under Section 80C of the Income Tax Act, 1961. Ask me about HDFC ELSS Tax Saver's lock-in for scheme-specific details.",
+   "evidence": "AMFI booklet"
+  },
+  {
+   "scheme": "flexi",
+   "attribute": "cut_off",
+   "source_id": "S01",
+   "as_on": "2025-11-21",
+   "answer": "For HDFC Flexi Cap Fund, purchase applications received up to 3.00 p.m. on a business day get that day's closing NAV, provided the money reaches the scheme before the cut-off; otherwise the NAV of the day the funds become available applies. Redemption requests received up to 3 p.m. get the same day's closing NAV, and later requests get the next business day's NAV.",
+   "evidence": "upto 3.00 p.m. upto 3 p.m."
+  },
+  {
+   "scheme": "large",
+   "attribute": "cut_off",
+   "source_id": "S02",
+   "as_on": "2025-11-21",
+   "answer": "For HDFC Large Cap Fund, purchase applications received up to 3.00 p.m. on a business day get that day's closing NAV, provided the money reaches the scheme before the cut-off; otherwise the NAV of the day the funds become available applies. Redemption requests received up to 3 p.m. get the same day's closing NAV, and later requests get the next business day's NAV.",
+   "evidence": "upto 3.00 p.m. upto 3 p.m."
+  },
+  {
+   "scheme": "mid",
+   "attribute": "cut_off",
+   "source_id": "S03",
+   "as_on": "2025-11-21",
+   "answer": "For HDFC Mid Cap Fund, purchase applications received up to 3.00 p.m. on a business day get that day's closing NAV, provided the money reaches the scheme before the cut-off; otherwise the NAV of the day the funds become available applies. Redemption requests received up to 3 p.m. get the same day's closing NAV, and later requests get the next business day's NAV.",
+   "evidence": "upto 3.00 p.m. upto 3 p.m."
+  },
+  {
+   "scheme": "elss",
+   "attribute": "cut_off",
+   "source_id": "S04",
+   "as_on": "2025-11-21",
+   "answer": "For HDFC ELSS Tax Saver, purchase applications received up to 3.00 p.m. on a business day get that day's closing NAV, provided the money reaches the scheme before the cut-off; otherwise the NAV of the day the funds become available applies. Redemption requests received up to 3 p.m. get the same day's closing NAV, and later requests get the next business day's NAV.",
+   "evidence": "upto 3.00 p.m. upto 3 p.m."
+  },
+  {
+   "scheme": "all",
+   "attribute": "def_nav",
+   "source_id": "S22",
+   "as_on": "2026-11-12",
+   "answer": "Net Asset Value (NAV) is the per-unit value of a mutual fund scheme, calculated by subtracting total liabilities from total assets and dividing by the number of outstanding units. It is the price at which you buy or redeem units, subject to applicable cut-off times.",
+   "evidence": "AMFI booklet"
+  }
+ ]
+}

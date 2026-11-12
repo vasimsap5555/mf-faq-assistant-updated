@@ -1,0 +1,25 @@
+id,title,url,publisher,doc_type,scheme,as_on,fetch_mode
+S01,KIM - HDFC Flexi Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,kim,flexi,2025-11-21,pdf
+S02,KIM - HDFC Large Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20Large%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,kim,large,2025-11-21,pdf
+S03,KIM - HDFC Mid Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20Mid%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,kim,mid,2025-11-21,pdf
+S04,KIM - HDFC ELSS Tax Saver (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20ELSS%20Tax%20Saver%20dated%20November%2021%2C%202025.pdf,HDFC AMC,kim,elss,2025-11-21,pdf
+S05,SID - HDFC Flexi Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,sid,flexi,2025-11-21,pdf
+S06,SID - HDFC Large Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Large%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,sid,large,2025-11-21,pdf
+S07,SID - HDFC Mid Cap Fund (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Mid%20Cap%20Fund%20dated%20November%2021%2C%202025.pdf,HDFC AMC,sid,mid,2025-11-21,pdf
+S08,SID - HDFC ELSS Tax Saver (Nov 21 2025),https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20ELSS%20Tax%20Saver%20dated%20November%2021%2C%202025.pdf,HDFC AMC,sid,elss,2025-11-21,pdf
+S09,Fund Facts - HDFC Flexi Cap Fund (Sep 2026),https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20Flexi%20Cap%20Fund_September%2026.pdf,HDFC AMC,fund_facts,flexi,2026-08-31,pdf
+S10,Fund Facts - HDFC Large Cap Fund (Sep 2026),https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20Large%20Cap%20Fund_September%2026.pdf,HDFC AMC,fund_facts,large,2026-08-31,pdf
+S11,Fund Facts - HDFC Mid Cap Fund (Sep 2026),https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20Mid-Cap%20Fund_September%2026.pdf,HDFC AMC,fund_facts,mid,2026-08-31,pdf
+S12,Fund Facts - HDFC ELSS Tax Saver (Sep 2026),https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20TaxSaver%20Fund_September%2026.pdf,HDFC AMC,fund_facts,elss,2026-08-31,pdf
+S13,HDFC MF Monthly Factsheet (September 2026),https://files.hdfcfund.com/s3fs-public/2026-10/HDFC%20MF%20Factsheet%20-%20September%202026.pdf,HDFC AMC,factsheet,all,2026-09-30,pdf
+S14,Scheme Summary Document - HDFC Flexi Cap Fund,https://files.hdfcfund.com/s3fs-public/scheme_summary/2026-08/HDFCEQ_1786689286.pdf,HDFC AMC,ssd,flexi,2026-08-14,pdf
+S15,HDFC MF - Request Statement,https://www.hdfcfund.com/services/additional-info/request-statement,HDFC AMC,service_page,all,2026-11-12,snapshot
+S16,HDFC MF - Download Statement,https://www.hdfcfund.com/services/consolidated-account-statement,HDFC AMC,service_page,all,2026-11-12,snapshot
+S17,HDFC MF - How to get a capital gain statement,https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india,HDFC AMC,guide,all,2025-08-12,snapshot
+S18,HDFC MF - SIP FAQs,https://www.hdfcfund.com/services/faqs/systematic-investment-plan,HDFC AMC,faq,all,2026-11-12,snapshot
+S19,HDFC MF - Total Expense Ratio disclosures,https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/reports,HDFC AMC,disclosure,all,2026-11-12,link_only
+S20,HDFC MF - Factsheets,https://www.hdfcfund.com/mutual-funds/factsheets,HDFC AMC,disclosure,all,2026-11-12,link_only
+S21,HDFC MF - Fund documents (KIM/SID),https://www.hdfcfund.com/mutual-funds/fund-documents/kim,HDFC AMC,disclosure,all,2026-11-12,link_only
+S22,AMFI - Mutual Funds Made Simple (investor booklet),https://www.amfiindia.com/uploads/AMFI_Understanding_Mutual_Funds_IAP_Booklet_Final_Website_version_860a5b77aa.pdf,AMFI,education,all,2026-11-12,pdf
+S23,AMFI Mutual Fund Sahi Hai - Glossary,https://www.mutualfundssahihai.com/en/glossary?page=1,AMFI,education,all,2026-11-12,snapshot
+S24,HDFC MF - NAV and IDCW,https://www.hdfcfund.com/nav-and-idcw,HDFC AMC,disclosure,all,2026-11-12,link_only
